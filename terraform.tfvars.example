@@ -1,0 +1,8 @@
+# Example Terraform Variables file
+# Copy to `terraform.tfvars` and set your actual values (never commit real secrets to git!)
+
+aws_region        = "eu-central-1" # Frankfurt (infrastructure region)
+environment       = "dev"
+project_name      = "scalable-ai-telemetry"
+openai_api_key    = "sk-proj-example-openai-key-abc123xyz"
+anthropic_api_key = "sk-ant-example-anthropic-key-def456uvw"
