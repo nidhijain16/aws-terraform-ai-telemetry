@@ -1,6 +1,6 @@
-# 🏛️ Module 1: Terraform (IaC) for AWS Cloud & GenAI Platforms
+# Terraform (IaC) for AWS Cloud & GenAI Platforms
 
-> **Time Commitment:** Hours 1 & 2 of the 5-Hour Sprint  
+
 > **Target Mastery:** Infrastructure as Code (IaC), AWS Architecture, State Locking, Secrets Management, Least-Privilege IAM.
 
 ---
